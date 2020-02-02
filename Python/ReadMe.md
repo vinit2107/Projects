@@ -1,6 +1,6 @@
 This folder contains projects completed in Python.
 
-The projects in the folder in chronolgical order are:
+The projects are listed below:
 
 1. House Price Prediction
 
