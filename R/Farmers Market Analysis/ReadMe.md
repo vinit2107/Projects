@@ -1,4 +1,4 @@
-Farmers' Market Analysis aims at anlaysing the farmer markets in the United States of America. 
+The project aims at analysing the farmer markets in the United States of America. 
 
 A farmers' market is a physical retail marketplace intended to sell foods directly by farmers to consumers. Farmers' markets may be indoors or outdoors and typically consist of booths, tables or stands where farmers sell their homegrown produce, live animals and plants, and sometimes prepared foods and beverages.[Wikipedia]
 
