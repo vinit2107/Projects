@@ -1,0 +1,1 @@
+The Project aims at predicting if a Santander customer will make a specific transaction in the future, irrespective of the amount of money transacted. The project will work through the data loading, exploratory analysis and feature selection, and finally building the model to correctly predict the behaviour.
